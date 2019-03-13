@@ -2,12 +2,12 @@
     profiles:
         active: 
         - dev
- ---    
+---    
 spring: 
     profiles: dev
     application: 
         name: microservice-cloud-config-dev
- ---        
+---        
 spring: 
     profiles: test
     application: 
